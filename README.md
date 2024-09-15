@@ -1,12 +1,10 @@
 # Remix-run i18n demo
-
 - `remix-i18n`
 - cookie base and persist
 - **NO** `queryString` need
 
-See this commit to figure every change you need
-
--
+See this **commit** to figure every change you need
+- https://github.com/flameddd/remix-run-18n-cookie_base-demo/commit/caba01732538eef0518fb15adbb48ebe5255db56
 
 ## Reference
 
