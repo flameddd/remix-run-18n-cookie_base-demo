@@ -1,0 +1,4 @@
+{
+  "greeting": "Hola",
+  "description": "This is a Remix-run i18n demo, Cookie-based and persistent, without using queryString."
+}

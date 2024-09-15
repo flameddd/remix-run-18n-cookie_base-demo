@@ -1,0 +1,4 @@
+{
+  "greeting": "Hello",
+  "description": "Esta es una demostración de i18n de Remix-run, basada en cookies y persistente, sin usar queryString."
+}

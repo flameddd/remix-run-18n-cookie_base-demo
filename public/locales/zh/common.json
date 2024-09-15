@@ -1,0 +1,4 @@
+{
+  "greeting": "你好",
+  "description": "這是 Remix-run i18n demo，Cookie base 和 persist，沒有用到 queryString。"
+}

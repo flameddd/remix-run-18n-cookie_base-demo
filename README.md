@@ -1,40 +1,15 @@
-# Welcome to Remix!
+# Remix-run i18n demo
 
-- 📖 [Remix docs](https://remix.run/docs)
+- `remix-i18n`
+- cookie base and persist
+- **NO** `queryString` need
 
-## Development
+See this commit to figure every change you need
 
-Run the dev server:
+-
 
-```shellscript
-npm run dev
-```
+## Reference
 
-## Deployment
-
-First, build your app for production:
-
-```sh
-npm run build
-```
-
-Then run the app in production mode:
-
-```sh
-npm start
-```
-
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying Node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-- `build/server`
-- `build/client`
-
-## Styling
-
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever css framework you prefer. See the [Vite docs on css](https://vitejs.dev/guide/features.html#css) for more information.
+- https://remix.run/resources/remix-i18next
+- https://github.com/sergiodxa/remix-vite-i18next
+- https://sergiodxa.com/tutorials/persist-the-user-locale-using-cookies-with-remix-i18next
